@@ -1,6 +1,8 @@
 # Pursuit-Core-iOS-Parsing-JSON-Lab
 
 ## Organizing Structure
+```
+```
 
 - Create a Tab Bar Controller.  
 - Each Tab in the Tab Bar Controller should be a Navigation Controller
